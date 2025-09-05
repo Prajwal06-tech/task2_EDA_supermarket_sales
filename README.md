@@ -1,5 +1,6 @@
 # Task 2: Exploratory Data Analysis – Supermarket Sales Data
 
+
 ## 📌 Overview
 
 This project performs Exploratory Data Analysis (EDA) on a supermarket sales dataset to uncover business insights using Python (Pandas, Matplotlib, Seaborn).  
